@@ -128,7 +128,7 @@
               <ul class="navbar-nav flex-row align-items-center ms-auto">
                 <!-- Place this tag where you want the button to render. -->
                 <li class="nav-item lh-1 me-4">
-                  <a href="#"><button type="button" class="btn rounded-pill btn-dark">LogOut</button></a>
+                  <a href="logout.php"><button type="button" class="btn rounded-pill btn-dark">LogOut</button></a>
 				   
                 </li>
 
