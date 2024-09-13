@@ -1,7 +1,7 @@
 # A first-level heading
-
 things that we did:
--> login.php
+
+*** login.php ***
 ->accountedit.php
 ->accountreport.php
 ->accounts.php
@@ -15,3 +15,4 @@ things not done
 +register function doesnt work
 +menu stuff make it work
 +edit and delete codes not working
+	*** ***
